@@ -1,0 +1,3 @@
+## University Class Scheduling Problem
+
+The University Class Scheduling Problem is a task that involves efficiently organizing and assigning classes within a university. It requires making optimal decisions regarding the allocation of classrooms, time slots, and faculty resources to create a schedule that minimizes conflicts and maximizes resource utilization. The objective is to meet academic requirements, accommodate student and faculty preferences, and ensure the effective use of available resources.
